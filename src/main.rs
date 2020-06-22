@@ -1,3 +1,7 @@
+fn build_deck() {
+
+}
+
 fn main() {
-    println!("Hello, world!");
+    let deck = build_deck();
 }
